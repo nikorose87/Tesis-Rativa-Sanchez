@@ -1,0 +1,180 @@
+\ifglsentryexists{ma}{}%
+{%
+\gls@defglossaryentry{ma}%
+{%
+name={MA},%
+sort={MA},%
+type={acronym},%
+first={Manufactura Aditiva\glsspace (MA)},%
+firstplural={Manufactura Aditivas\glsspace (MAs)},%
+text={MA},%
+plural={MAs},%
+description={Manufactura Aditiva},%
+descriptionplural={Manufactura Aditiva\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Manufactura Aditiva},%
+longplural={Manufactura Aditivas},%
+short={MA},%
+shortplural={MAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fdm}{}%
+{%
+\gls@defglossaryentry{fdm}%
+{%
+name={FDM},%
+sort={FDM},%
+type={acronym},%
+first={Manufactura asistida por computadora\glsspace (FDM)},%
+firstplural={Manufactura asistida por computadoras\glsspace (FDMs)},%
+text={FDM},%
+plural={FDMs},%
+description={Manufactura asistida por computadora},%
+descriptionplural={Manufactura asistida por computadora\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Manufactura asistida por computadora},%
+longplural={Manufactura asistida por computadoras},%
+short={FDM},%
+shortplural={FDMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{iot}{}%
+{%
+\gls@defglossaryentry{iot}%
+{%
+name={IoT},%
+sort={IoT},%
+type={acronym},%
+first={Internet de las cosas\glsspace (IoT)},%
+firstplural={Internet de las cosass\glsspace (IoTs)},%
+text={IoT},%
+plural={IoTs},%
+description={Internet de las cosas},%
+descriptionplural={Internet de las cosas\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Internet de las cosas},%
+longplural={Internet de las cosass},%
+short={IoT},%
+shortplural={IoTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{m2m}{}%
+{%
+\gls@defglossaryentry{m2m}%
+{%
+name={M2M},%
+sort={M2M},%
+type={acronym},%
+first={machine two machine\glsspace (M2M)},%
+firstplural={machine two machines\glsspace (M2Ms)},%
+text={M2M},%
+plural={M2Ms},%
+description={machine two machine},%
+descriptionplural={machine two machine\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={machine two machine},%
+longplural={machine two machines},%
+short={M2M},%
+shortplural={M2Ms},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ASTM}{}%
+{%
+\gls@defglossaryentry{ASTM}%
+{%
+name={ASTM},%
+sort={ASTM},%
+type={acronym},%
+first={American Society for Testing and Materials\glsspace (ASTM)},%
+firstplural={American Society for Testing and Materialss\glsspace (ASTMs)},%
+text={ASTM},%
+plural={ASTMs},%
+description={American Society for Testing and Materials},%
+descriptionplural={American Society for Testing and Materials\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={American Society for Testing and Materials},%
+longplural={American Society for Testing and Materialss},%
+short={ASTM},%
+shortplural={ASTMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pyme}{}%
+{%
+\gls@defglossaryentry{pyme}%
+{%
+name={PyME},%
+sort={PyME},%
+type={acronym},%
+first={Pequeña y mediana empresa\glsspace (PyME)},%
+firstplural={Pequeña y mediana empresas\glsspace (PyMEs)},%
+text={PyME},%
+plural={PyMEs},%
+description={Pequeña y mediana empresa},%
+descriptionplural={Pequeña y mediana empresa\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Pequeña y mediana empresa},%
+longplural={Pequeña y mediana empresas},%
+short={PyME},%
+shortplural={PyMEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
